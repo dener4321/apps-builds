@@ -10,9 +10,9 @@
       "version": "v1.22",
       "versionDate": "2023-09-22",
       "versionDescription": "version 1.22",
-      "downloadURL": "https://github.com/flyinghead/flycast/releases/download/v2.2/Flycast-2.2.ipa",
+      "downloadURL": "https://github.com/dener4321/apps-builds/releases/download/v1.22/Payload.ipa",
       "localizedDescription": "Nova função: gravação de logger.",
-      "iconURL": "https://github.com/flyinghead/flycast/raw/master/shell/linux/flycast.png",
+      "iconURL": "https://github.com/dener4321/rt_dash/blob/master/assets/images/logo_rt_black_128x128.png?raw=true",
       "tintColor": "9b54fd",
       "size": 32072317,
     }
