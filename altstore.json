@@ -1,1 +1,20 @@
-
+{
+  "name": "DevNest",
+  "apps": [
+    {
+      "beta": false,
+      "name": "RTDash",
+      "bundleIdentifier": "com.rtperformance.rtDash",
+      "developerName": "DevNest",
+      "subtitle": "Dashboard App RT.",
+      "version": "v1.22",
+      "versionDate": "2023-09-22",
+      "versionDescription": "version 1.22",
+      "downloadURL": "https://github.com/flyinghead/flycast/releases/download/v2.2/Flycast-2.2.ipa",
+      "localizedDescription": "Nova função: gravação de logger.",
+      "iconURL": "https://github.com/flyinghead/flycast/raw/master/shell/linux/flycast.png",
+      "tintColor": "9b54fd",
+      "size": 32072317,
+    }
+  ]
+}
