@@ -7,14 +7,27 @@
       "bundleIdentifier": "com.rtperformance.rtDash",
       "developerName": "DevNest",
       "subtitle": "Dashboard App RT.",
-      "version": "v1.22",
-      "versionDate": "2023-09-22",
-      "versionDescription": "version 1.22",
-      "downloadURL": "https://github.com/dener4321/apps-builds/releases/download/v1.22/Payload.ipa",
-      "localizedDescription": "Nova função: gravação de logger.",
       "iconURL": "https://github.com/dener4321/rt_dash/blob/master/assets/images/logo_rt_black_128x128.png?raw=true",
       "tintColor": "9b54fd",
-      "size": 32072317,
+      "versions": [
+          {
+              "version": "1.22",
+              "date": "2023-09-22",
+              "size": 32072317,
+              "downloadURL": "https://github.com/dener4321/apps-builds/releases/download/v1.22/Payload.ipa",
+              "localizedDescription": "Nova função: gravação de logger.",
+              "minOSVersion": "11.0"
+          }
+      ],
+      "appPermissions": {
+          "privacy": {
+              "NSBluetoothAlwaysUsageDescription": "Need BLE permission",
+              "NSBluetoothPeripheralUsageDescription": "Need BLE permission",
+              "NSLocationAlwaysAndWhenInUseUsageDescription": "Need Location permission",
+              "NSLocationAlwaysUsageDescription": "Need Location permission",
+              "NSLocationWhenInUseUsageDescription": "Need Location permission",
+          }
+      }
     }
   ]
 }
